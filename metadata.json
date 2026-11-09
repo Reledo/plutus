@@ -1,0 +1,6 @@
+{
+  "name": "PLUTUS — Trading Software",
+  "description": "Plutus is software built to help traders automate rule-based execution, manage risk settings, and trade with greater consistency through supported MetaTrader 4 and MetaTrader 5 environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
